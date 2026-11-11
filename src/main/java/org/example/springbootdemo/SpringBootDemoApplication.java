@@ -31,11 +31,6 @@ public class SpringBootDemoApplication {
         return a + b;
     }
 
-//    @PostMapping
-//    public String softwareDevelopers(@RequestParam ){
-//
-//    }
-
 //    @GetMapping
 //    public double answer (@RequestParam double a , @RequestParam double b){
 //
